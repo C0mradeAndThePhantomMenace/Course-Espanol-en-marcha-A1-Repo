@@ -1,0 +1,29 @@
+# VOCABULARIO
+
+a vitrocerámica
+b lavavajillas
+c fregadero
+d armario
+e frigorifico
+f horno
+g microondas
+
+a sofa sofa
+d estanteria shelf
+g lámpara lamp
+b sillón armchair
+e cuadro painting
+h cojin cushion
+c mesita side table
+f televisión television
+i alfombra rug
+
+a 
+
+g 
+b 
+e 
+h 
+c 
+f 
+i 
